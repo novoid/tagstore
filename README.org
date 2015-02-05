@@ -1,9 +1,10 @@
 This is an empty place holder for the source code of
 http://tagstore.org
 
-So far, tagstore is in a private TRAC-SVN repository. Somewhere in autumn
-2012 this private SVN will be migrated to here.
+So far, tagstore is in a private SVN repository. It will be migrated
+to here some time.
 
-In the meanwhile, you can get the tool at [[http://tagstore.ist.tugraz.at/en/testing][the homepage]].
+In the meanwhile, you can get the tool at [[http://tagstore.org][the homepage]]. Each download
+option includes the Python sources as well.
 
 Stay tuned!
