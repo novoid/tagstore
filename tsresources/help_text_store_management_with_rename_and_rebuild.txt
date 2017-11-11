@@ -1,0 +1,9 @@
+Unter dem Reiter „Store-Verwaltung“ kann ein neuer Store angelegt oder ein bereits vorhandener gelöscht beziehungsweise umbenannt werden.
+
+Das Anlegen geschieht durch einen Klick auf „Neuer tagstore“. Wählen Sie dann einen Ordner aus, der den neuen Store beinhalten soll und klicken Sie auf „Ordner auswählen“.
+
+Einen vorhandenen Store löscht man durch Auswahl des Stores in der Liste und Klick auf „Löschen ...“. Entsprechend funktioniert auch das Umbenennen eines Stores.
+
+Hinweis: beim Löschen eines Stores werden „nur“ die Navigationsstukturen gelöscht. Die Ordner „Ablage“ und „abgelaufene_Daten“ bleiben erhalten. Eine Sicherheitskopie vorab empfiehlt sich trotzdem.
+
+Wenn notwendig, kann die Navigationsstruktur eines ausgewählten Stores mit einem Klick auf „Struktur neu erstellen ...“ neu erstellt werden. Das kann je nach Befüllungsgrad des Stores auch lange dauern.

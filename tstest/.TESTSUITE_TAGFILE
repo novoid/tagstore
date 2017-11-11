@@ -1,0 +1,12 @@
+[store]
+store_id=007
+
+[files]
+testfile.txt\tags="test,fest,klest"
+testfile.txt\timestamp=2011-08-24 11:49:07
+masterthesis.tex\tags="MT,TUG,tagstore"
+masterthesis.tex\timestamp=2010-08-21 18:14:50
+timesheet.csv\tags="MT,TUG,controll"
+timesheet.csv\timestamp=2010-08-22 18:14:55
+second_new_testfile\tags="gnusmas,fest,DA,tagger"
+second_new_testfile\timestamp=2011-08-24 11:49:07

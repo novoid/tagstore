@@ -1,0 +1,39 @@
+2012-07-14 00:31:51,234 - INFO - loghelper.py - 63 - APPlogger does not exist - created a new one
+2012-07-14 00:31:51,235 - INFO - tagstore_manager.py - 86 - initialize configuration
+2012-07-14 00:31:51,236 - INFO - admindialog.py - 1429 - TagStoreLogger
+2012-07-14 00:47:35,393 - INFO - loghelper.py - 63 - APPlogger does not exist - created a new one
+2012-07-14 00:47:35,396 - INFO - tagstore.py - 105 - starting tagstore watcher
+2012-07-14 00:47:35,396 - INFO - tagstore.py - 113 - initialize configuration
+2012-07-14 00:47:35,397 - INFO - configwrapper.py - 120 - ***************************************************************
+2012-07-14 00:47:35,397 - INFO - configwrapper.py - 121 - APPLICATION CONFIGURATION AT STARTUP
+2012-07-14 00:47:35,397 - INFO - configwrapper.py - 122 - ***************************************************************
+2012-07-14 00:47:35,397 - INFO - configwrapper.py - 123 - [settings]
+2012-07-14 00:47:35,398 - INFO - configwrapper.py - 124 - store_config_directory=.tagstore
+2012-07-14 00:47:35,398 - INFO - configwrapper.py - 125 - store_config_filename=store.cfg
+2012-07-14 00:47:35,398 - INFO - configwrapper.py - 126 - store_tags_filename=store.tgs
+2012-07-14 00:47:35,399 - INFO - configwrapper.py - 127 - store_vocabulary_filename=vocabulary.txt
+2012-07-14 00:47:35,399 - INFO - configwrapper.py - 129 - tag_separator=","
+2012-07-14 00:47:35,399 - INFO - configwrapper.py - 130 - facet_separator="="
+2012-07-14 00:47:35,399 - INFO - configwrapper.py - 131 - supported_languages=[u'en', u'de']
+2012-07-14 00:47:35,400 - INFO - configwrapper.py - 132 - datestamp_format=1
+2012-07-14 00:47:35,400 - INFO - configwrapper.py - 133 - datestamp_hidden=True
+2012-07-14 00:47:35,400 - INFO - configwrapper.py - 134 - current_language=de
+2012-07-14 00:47:35,400 - INFO - configwrapper.py - 135 - show_category_line=1
+2012-07-14 00:47:35,400 - INFO - configwrapper.py - 136 - vocabulary_configurable=True
+2012-07-14 00:47:35,401 - INFO - configwrapper.py - 137 - expiry_prefix=exp
+2012-07-14 00:47:35,401 - INFO - configwrapper.py - 138 - max_tags=5
+2012-07-14 00:47:35,401 - INFO - configwrapper.py - 139 - num_popular_tags=5
+2012-07-14 00:47:35,401 - INFO - configwrapper.py - 140 - sync_tag=android
+2012-07-14 00:47:35,401 - INFO - configwrapper.py - 142 - show_wizard=False
+2012-07-14 00:47:35,402 - INFO - configwrapper.py - 143 - show_tag_help=True
+2012-07-14 00:47:35,402 - INFO - configwrapper.py - 144 - show_my_tags_help=True
+2012-07-14 00:47:35,402 - INFO - configwrapper.py - 145 - show_datestamps_help=True
+2012-07-14 00:47:35,402 - INFO - configwrapper.py - 146 - show_expiry_date_help=True
+2012-07-14 00:47:35,402 - INFO - configwrapper.py - 147 - show_retagging_help=True
+2012-07-14 00:47:35,403 - INFO - configwrapper.py - 148 - show_rename_tags_help=True
+2012-07-14 00:47:35,403 - INFO - configwrapper.py - 149 - show_store_management_help=True
+2012-07-14 00:47:35,403 - INFO - configwrapper.py - 150 - show_sync_settings_help=True
+2012-07-14 00:47:35,403 - INFO - configwrapper.py - 151 - [stores]
+2012-07-14 00:47:35,403 - INFO - configwrapper.py - 152 - ***************************************************************
+2012-07-14 00:47:35,403 - INFO - configwrapper.py - 153 - END - APPLICATION CONFIGURATION
+2012-07-14 00:47:35,404 - INFO - configwrapper.py - 154 - ***************************************************************
