@@ -53,13 +53,13 @@ please check your system PATH variable and your python installation
 
 *** STEP 1: create a new store
 
-a) run the tagstore-manager file:
+a) run the tagstore_manager file:
 
-: $/path_to_tagstore_installation/python tagstore-manager.py
+: $/path_to_tagstore_installation/python tagstore_manager.py
 
 OR
 
-: $/path_to_tagstore_installation/tagstore-manager.py	(make sure the executable flag is set for this file)
+: $/path_to_tagstore_installation/tagstore_manager.py	(make sure the executable flag is set for this file)
 
 the manager window should appear
 
@@ -82,7 +82,7 @@ d) close the manager by clicking the "Save" button in the bottom right corner.
 
 *** STEP 2: start the daemon
 
-Just run the tagstore.py file in the same way you ran the tagstore-manager file (=$tagstore.py=)
+Just run the tagstore.py file in the same way you ran the =tagstore_manager= file (=$tagstore.py=)
 
 
 ** INFO: manually editing the store config file
