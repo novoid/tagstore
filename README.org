@@ -1,3 +1,28 @@
+
+-------
+
+The [[https://karl-voit.at/tagstore/][tagstore research project]] was the PhD project of [[https://karl-voit.at/][Karl Voit]] and his
+students. It was active in 2009-2013. the research platform tagstore
+will not be developed any further by us. However, if you find it
+interesting, you're free to test and use [[https://karl-voit.at/tagstore/][the Python-based tagstore
+research prototype]] since it is free software.
+
+If you are interested in the research result, please do [[https://karl-voit.at/tagstore/downloads/Voit2012b.pdf][read and cite
+the final PhD]] which can be found on [[https://karl-voit.at/tagstore/en/papers.shtml][the page with all the research
+papers]]. The PhD thesis document summarizes most of the other papers
+and puts them into context.
+
+On Github, you can find multiple repositories such as the [[https://github.com/novoid/tagstore][tagstore
+source code]], and [[https://github.com/novoid/2011-01-tagstore-formal-experiment][the data for the formal experiment one]] and [[https://github.com/novoid/2011-04-tagstore-formal-experiment][for
+another formal experiment]].
+
+Karl Voit took the experience with this project and developed
+[[https://karl-voit.at/managing-digital-photographs][workflows and a series of open source tools]] for [[https://karl-voit.at/tags/pim/][Personal Information
+Management]] for managing local files via tags. You may want to [[https://karl-voit.at/how-to-use-public-voit][follow
+his blog posts]] about [[https://karl-voit.at/tags/pim/][PIM]].
+
+-------
+
 This is the source code of [[http://Karl-Voit.at/tagstore/]] which is a
 research platform to test certain aspects of file tagging in Personal
 Information Management.
